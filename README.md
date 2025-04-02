@@ -77,6 +77,6 @@ print("PyTorch version:", torch.__version__)
 - Ouvrez les notebooks Jupyter et exécutez les cellules pour reproduire les résultats de l'article.
 
 - Liste des notebooks: 
-  - `tsne_fig3_fig5.ipynb` : Images t-SNE pour la figure 3 et 5
-  - `matrice.ipynb` : Matrice de confusion pour la figure 2
-  - `tsne_fig6.ipynb` : Images t-SNE pour la figure 6
+  - `tsne_fig3_fig5.ipynb` : Images t-SNE pour la figure 3 et la figure 5
+  - `matriceFig4_Tab2Dinov2.ipynb` : Matrice de confusion pour la figure 2 et la colonne DINOv2 du tableau 2
+  - `tsne_mnist_fig6.ipynb` : Images t-SNE pour la figure 6

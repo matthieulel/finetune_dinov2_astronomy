@@ -1,0 +1,11 @@
+Tableau 2 Colonne DINOv2 (F1-Score):
+Disturbed Galaxies: 0.57
+Merging Galaxies: 0.91
+Round Smooth Galaxies: 0.94
+In-between Round Smooth Galaxies: 0.91
+Cigar Shaped Smooth Galaxies: 0.79
+Barred Spiral Galaxies: 0.90
+Unbarred Tight Spiral Galaxies: 0.75
+Unbarred Loose Spiral Galaxies: 0.78
+Edge-on Galaxies without Bulge: 0.92
+Edge-on Galaxies with Bulge: 0.96
